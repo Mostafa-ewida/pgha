@@ -5,6 +5,11 @@ This is a bash project to Create High Availability and auto-fail-over **Postgres
 - 2 ubuntu  machines running 
 - A Virtual ip
 
+
+### setting up a virtual ip address
+- [Windows](https://aptaredocs.veritas.com/10.3.00/index.html#page/System%20Administrator's%20Guide/$H_113.html)
+- [Linux](https://www.ibm.com/docs/en/rtw/10.5.3?topic=clients-configuring-virtual-ips-in-linux)
+
 # Installation
 
 
