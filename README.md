@@ -1,4 +1,4 @@
-# what is this do 
+# what does this do 
 This is a bash project to Create High Availability and auto-fail-over **Postgres Clutster**  
 
 # requirements 
